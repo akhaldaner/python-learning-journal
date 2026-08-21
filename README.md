@@ -1,11 +1,9 @@
 markdown
 # Python Learning Journal
 
-**Student:** Islam  
+**Student:** Isa Ars 
 **Goal:** Junior Python Backend Developer  
-**Start Date:** 2026-08-20  
-**Location:** Russia, Oryol Oblast  
-**Target:** English-speaking country  
+**Start Date:** 2026-08-20   
 
 ---
 
