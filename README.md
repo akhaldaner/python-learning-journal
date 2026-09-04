@@ -38,38 +38,40 @@ The goal is to reach **Junior Python Backend Developer** level within 2–2.5 ye
 
 The repository is structured around an Obsidian vault (`free_in_the_knowledge/`) synchronised with Git. Each subject folder contains a `_map_of_content.md` file that serves as a navigation hub for that topic.
 
-free_in_the_knowledge/
-├── CS/
-│   ├── CS_map_of_content.md
-│   └── Notes/
-├── Daily/
-│   ├── Logs/ # Daily progress reports
-│   └── Templates/ # Note and report templates
-├── English/
-│   ├── English_File/
-│   │   └── Notes/
-│   ├── English_map_of_content.md
-│   ├── Murphy_Grammar_in_Use/
-│   │   └── Notes/
-│   └── Vocabulary/
-├── GitHub/
-│   ├── Notes/
-│   └── python-learning-journal/ # This repository
-├── Inbox/ # Temporary notes and ideas
-├── Linux/
-│   ├── Commands-Cheatsheet.md
-│   ├── Linux_map_of_content.md
-│   └── Notes/
-├── Math/
-│   ├── Formulas.md
-│   ├── Math_map_of_content.md
-│   ├── Notes/
-│   └── Tasks/
-├── Projects/ # First project (future)
-└── Python/
-    ├── Notes/
-    ├── Python_map_of_content.md
-    └── Tasks/
+```text
+free_in_the_knowledge/  
+├── CS/  
+│ ├── CS_map_of_content.md  
+│ └── Notes/  
+├── Daily/  
+│ ├── Logs/ # Daily progress reports  
+│ └── Templates/ # Note and report templates  
+├── English/  
+│ ├── English_File/  
+│ │ └── Notes/  
+│ ├── English_map_of_content.md  
+│ ├── Murphy_Grammar_in_Use/  
+│ │ └── Notes/  
+│ └── Vocabulary/  
+├── GitHub/  
+│ ├── Notes/  
+│ └── python-learning-journal/ # This repository  
+├── Inbox/ # Temporary notes and ideas  
+├── Linux/  
+│ ├── Commands-Cheatsheet.md  
+│ ├── Linux_map_of_content.md  
+│ └── Notes/  
+├── Math/  
+│ ├── Formulas.md  
+│ ├── Math_map_of_content.md  
+│ ├── Notes/  
+│ └── Tasks/  
+├── Projects/ # First project (future)  
+└── Python/  
+├── Notes/  
+├── Python_map_of_content.md  
+└── Tasks/
+```
 
 ---
 
