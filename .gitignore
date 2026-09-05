@@ -1,0 +1,106 @@
+# ===========================================
+# Python
+# ===========================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# ===========================================
+# IDE & Editors
+# ===========================================
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+
+# ===========================================
+# OS (системные файлы)
+# ===========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===========================================
+# Secrets (Секреты - НИКОГДА не коммитить!)
+# ===========================================
+*.pem
+*.key
+*.crt
+.env.local
+.env.*.local
+secrets.json
+credentials.json
+
+# ===========================================
+# Obsidian (специфичные временные файлы)
+# ===========================================
+# Временные настройки рабочего пространства (меняются при каждом действии)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# Плагины (если не хочешь их коммитить)
+# .obsidian/plugins/
+
+# ===========================================
+# Temporary files (временные файлы)
+# ===========================================
+*.tmp
+*.temp
+*.log
+*.bak
+*.backup
+*~
+
+# ===========================================
+# Jupyter Notebook (если будешь использовать)
+# ===========================================
+.ipynb_checkpoints
+
+# ===========================================
+# Testing & Coverage
+# ===========================================
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
