@@ -29,6 +29,7 @@ This repository serves as my personal learning diary. It tracks my progress acro
 - **Linux** — command-line proficiency, system administration.
 - **English** — vocabulary, grammar, and technical communication.
 - **Computer Science** — architecture, algorithms, data structures.
+
 All study notes are maintained in **Obsidian** (vault: `free_in_the_knowledge/`) and synchronised with this Git repository. Daily logs and knowledge maps (`_map_of_content`) are kept in Markdown for easy navigation and version control.
 The goal is to reach **Junior Python Backend Developer** level within 2–2.5 years, while building a portfolio of projects and maintaining a consistent learning habit.
 
