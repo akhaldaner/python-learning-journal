@@ -25,7 +25,7 @@
 
 This repository serves as my personal learning diary. It tracks my progress across five core areas:
 - **Python** — syntax, functions, OOP, and backend development.
-- **Mathematics** — algebra, functions, geometry.
+- **Mathematics** — algebra, mathematical analysis, linear algebra.
 - **Linux** — command-line proficiency, system administration.
 - **English** — vocabulary, grammar, and technical communication.
 - **Computer Science** — architecture, algorithms, data structures.
@@ -144,19 +144,19 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-05*
+*Last updated: 2026-09-09*
 
-| Subject              | Progress                                                                                                                                                  | Status      |
-| :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Python**           | Stepik 297 / 2438                                                                                                                                         | In progress |
-| **Mathematics**      | Grade 7, Chapter 2                                                                                                                                        | In progress |
-| **Linux**            | Stepik ~41                                                                                                                                                | In progress |
-| **English**          | English File 4e Beginner (Episode 1)<br>English File 4e Workbook (Episode 1)<br>Murphy Essential Grammar in Use Elementary (Unit 2) | In progress |
-| **Computer Science** | Binary arithmetic, Boolean logic                                                                                                                          | In progress |
+| Subject              | Progress                                                                                                                             | Status      |
+| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Python**           | Logical operators (`and`, `or`, `not`)                                                                                               | In progress |
+| **Mathematics**      | Grade 7, Chapter 1, § 1. Numerical and algebraic expressions. § 2. What mathematical language is. § 3. What a mathematical model is. | In progress |
+| **Linux**            | Stepik ~41                                                                                                                           | In progress |
+| **English**          | English File 4e Beginner (Episode 1)<br>English File 4e Workbook (Episode 1)<br>Murphy Essential Grammar in Use Elementary (Unit 2)  | In progress |
+| **Computer Science** | Binary arithmetic, Boolean logic                                                                                                     | In progress |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
-- Anki/ReWord: 20 new words + 400+ repetitions daily.  
+- Anki/ReWord: 20 new words + ~400 repetitions daily.  
 - Regular commits to GitHub.  
 - Physical exercise, walks, and playing music incorporated into the daily routine.
 
@@ -165,7 +165,7 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT](LICENSE).
 
 **Author:** [akhaldaner](https://github.com/akhaldaner)
 
