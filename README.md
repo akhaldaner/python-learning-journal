@@ -144,22 +144,21 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-11*
 
-| Subject              | Progress                                                                                                                             | Status      |
-| :------------------- | :----------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Python**           | Logical operators (`and`, `or`, `not`)                                                                                               | In progress |
-| **Mathematics**      | Grade 7, Chapter 1, § 1. Numerical and algebraic expressions. § 2. What mathematical language is. § 3. What a mathematical model is. | In progress |
-| **Linux**            | Stepik ~41                                                                                                                           | In progress |
-| **English**          | English File 4e Beginner (Episode 1)<br>English File 4e Workbook (Episode 1)<br>Murphy Essential Grammar in Use Elementary (Unit 2)  | In progress |
-| **Computer Science** | Binary arithmetic, Boolean logic                                                                                                     | In progress |
+| Subject              | Progress                                                                                                                                                                                                                               | Status      |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
+| **Python**           | Resource: [[Stepik](https://stepik.org)]<br>Topic: [Logical operators (`and`, `or`, `not`). Solving tasks]                                                                                                                             | In progress |
+| **Mathematics**      | Resource: [Mordkovich A.G. "Algebra. 7th grade. Textbook"]<br>Topic: [Chapter 1. § 4. Linear equation with one variable]                                                                                                               | In progress |
+| **Linux**            | Resource: [William E. Shotts "The Linux Command Line: A Complete Introduction"]<br>Topic: [Chapter 2. Navigation]                                                                                                                      | In progress |
+| **English**          | Resource_1: [English File 4e Beginner. Textbook]<br>Topic_1: [Episode 1]<br>Resource_2: [English File 4e. Workbook]<br>Topic_2: [Episode 1]<br>Resource_3: [Raymond Murphy "Essential Grammar in Use Elementary"]<br>Topic_3: [Unit 2] | In progress |
+| **Computer Science** | Resource: [Charles Petzold "Code: The Hidden Language of Computer Hardware and Software"]<br>Topic: [Chapter 11. Logic Gates]                                                                                                          | In progress |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
 - Anki/ReWord: 20 new words + ~400 repetitions daily.  
 - Regular commits to GitHub.  
 - Physical exercise, walks, and playing music incorporated into the daily routine.
-
 
 ---
 
