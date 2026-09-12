@@ -144,15 +144,16 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-11*
+*Last updated: 2026-09-12*
 
-| Subject              | Progress                                                                                                                                                                                                                               | Status      |
-| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------- |
-| **Python**           | Resource: [[Stepik](https://stepik.org)]<br>Topic: [Logical operators (`and`, `or`, `not`). Solving tasks]                                                                                                                             | In progress |
-| **Mathematics**      | Resource: [Mordkovich A.G. "Algebra. 7th grade. Textbook"]<br>Topic: [Chapter 1. § 4. Linear equation with one variable]                                                                                                               | In progress |
-| **Linux**            | Resource: [William E. Shotts "The Linux Command Line: A Complete Introduction"]<br>Topic: [Chapter 2. Navigation]                                                                                                                      | In progress |
-| **English**          | Resource_1: [English File 4e Beginner. Textbook]<br>Topic_1: [Episode 1]<br>Resource_2: [English File 4e. Workbook]<br>Topic_2: [Episode 1]<br>Resource_3: [Raymond Murphy "Essential Grammar in Use Elementary"]<br>Topic_3: [Unit 2] | In progress |
-| **Computer Science** | Resource: [Charles Petzold "Code: The Hidden Language of Computer Hardware and Software"]<br>Topic: [Chapter 11. Logic Gates]                                                                                                          | In progress |
+| Subject               | Resource                        | Current Topic                                                         |
+| :-------------------- | :------------------------------ | :-------------------------------------------------------------------- |
+| **Python**            | Stepik: online courses          | Logical operators (`and`, `or`, `not`). <br>Course progress: 323/2438 |
+| **Math**              | Mordkovich "Algebra 7"          | §4. Linear equations                                                  |
+| **Linux**             | Shotts "The Linux Command Line" | Chapter 3. System analysis (`ls`, `file`, `less`)                     |
+| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 2                                                                |
+| **English: Practice** | English File 4e Beginner        | Episode 1                                                             |
+| **CS**                | Petzold "Code"                  | Chapter 11. Logic Gates                                               |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
