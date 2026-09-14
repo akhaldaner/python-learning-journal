@@ -144,12 +144,12 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-12*
+*Last updated: 2026-09-14*
 
 | Subject               | Resource                        | Current Topic                                                         |
 | :-------------------- | :------------------------------ | :-------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | Logical operators (`and`, `or`, `not`). <br>Course progress: 323/2438 |
-| **Math**              | Mordkovich "Algebra 7"          | §4. Linear equations                                                  |
+| **Python**            | Stepik: online courses          | Logical operators (`and`, `or`, `not`). <br>Course progress: 343/2438 |
+| **Math**              | Mordkovich "Algebra 7"          | § 5. Problems involving the formulation of linear equations.          |
 | **Linux**             | Shotts "The Linux Command Line" | Chapter 3. System analysis (`ls`, `file`, `less`)                     |
 | **English: Grammar**  | Murphy "Grammar in Use"         | Unit 2                                                                |
 | **English: Practice** | English File 4e Beginner        | Episode 1                                                             |
