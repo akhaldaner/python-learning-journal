@@ -144,16 +144,16 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-14*
+*Last updated: 2026-09-19*
 
-| Subject               | Resource                        | Current Topic                                                         |
-| :-------------------- | :------------------------------ | :-------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | Logical operators (`and`, `or`, `not`). <br>Course progress: 343/2438 |
-| **Math**              | Mordkovich "Algebra 7"          | § 5. Problems involving the formulation of linear equations.          |
-| **Linux**             | Shotts "The Linux Command Line" | Chapter 3. System analysis (`ls`, `file`, `less`)                     |
-| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 2                                                                |
-| **English: Practice** | English File 4e Beginner        | Episode 1                                                             |
-| **CS**                | Petzold "Code"                  | Chapter 11. Logic Gates                                               |
+| Subject               | Resource                        | Current Topic                                                                            |
+| :-------------------- | :------------------------------ | :--------------------------------------------------------------------------------------- |
+| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement. <br>Course progress: 358/2438 |
+| **Math**              | Mordkovich "Algebra 7"          | § 5. Problems involving the formulation of linear equations.                             |
+| **Linux**             | Shotts "The Linux Command Line" | Chapter 3. System analysis (`ls`, `file`, `less`)                                        |
+| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 2                                                                                   |
+| **English: Practice** | English File 4e Beginner        | Episode 1                                                                                |
+| **CS**                | Bosova "Informatics 7"          | § 1. 1. Information and its properties                                                   |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
