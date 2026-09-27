@@ -144,16 +144,16 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-26*
+*Last updated: 2026-09-27*
 
 | Subject               | Resource                        | Current Topic                                                                                                   |
 | :-------------------- | :------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 358/2438 |
+| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 369/2438 |
 | **Math**              | Mordkovich "Algebra 7"          | § 5. Problems involving the formulation of linear equations.                                                    |
-| **Linux**             | Shotts "The Linux Command Line" | Chapter 3. System analysis (`ls`, `file`, `less`).                                                              |
-| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 2.                                                                                                         |
+| **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`).                                                       |
+| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 3.                                                                                                         |
 | **English: Practice** | English File 4e Beginner        | 2A.                                                                                                             |
-| **CS**                | Bosova "Informatics 6"          | § 4 Types of objects and their classification.                                                                  |
+| **CS**                | Bosova "Informatics 6"          | § 5. Systems of objects.                                                                                        |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
