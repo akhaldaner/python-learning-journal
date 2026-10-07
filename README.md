@@ -144,15 +144,15 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 ## Current_Progress
 
-*Last updated: 2026-09-27*
+*Last updated: 2026-10-07*
 
 | Subject               | Resource                        | Current Topic                                                                                                   |
 | :-------------------- | :------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 369/2438 |
-| **Math**              | Mordkovich "Algebra 7"          | § 5. Problems involving the formulation of linear equations.                                                    |
+| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 379/2438 |
+| **Math**              | Mordkovich "Algebra 7"          | Chapter 1. Mathematical Language. Mathematical Model. § 6. The Coordinate Line.                                 |
 | **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`).                                                       |
 | **English: Grammar**  | Murphy "Grammar in Use"         | Unit 3.                                                                                                         |
-| **English: Practice** | English File 4e Beginner        | 2A.                                                                                                             |
+| **English: Practice** | English File 4e Beginner        | 2B.                                                                                                             |
 | **CS**                | Bosova "Informatics 6"          | § 5. Systems of objects.                                                                                        |
 
 **Daily routine:**  
