@@ -40,38 +40,54 @@ The goal is to reach **Junior Python Backend Developer** level within 2–2.5 ye
 The repository is structured around an Obsidian vault (`free_in_the_knowledge/`) synchronised with Git. Each subject folder contains a `_map_of_content.md` file that serves as a navigation hub for that topic.
 
 ```text
-free_in_the_knowledge/  
-├── CS/  
-│ ├── CS_map_of_content.md  
-│ └── Notes/  
-├── Daily/  
-│ ├── Logs/ # Daily progress reports  
-│ └── Templates/ # Note and report templates  
-├── English/  
-│ ├── English_File/  
-│ │ └── Notes/  
-│ ├── English_map_of_content.md  
-│ ├── Murphy_Grammar_in_Use/  
-│ │ └── Notes/  
-│ └── Vocabulary/  
-├── GitHub/  
-│ ├── Notes/  
-│ └── python-learning-journal/ # This repository  
-├── Inbox/ # Temporary notes and ideas  
-├── Linux/  
-│ ├── Commands-Cheatsheet.md  
-│ ├── Linux_map_of_content.md  
-│ └── Notes/  
-├── Math/  
-│ ├── Formulas.md  
-│ ├── Math_map_of_content.md  
-│ ├── Notes/  
-│ └── Tasks/  
-├── Projects/ # First project (future)  
-└── Python/  
-├── Notes/  
-├── Python_map_of_content.md  
-└── Tasks/
+free_in_the_knowledge
+├── CS
+│   ├── CS_map_of_content.md
+│   ├── Notes/
+│   └── Resources/
+├── Daily
+│   ├── Logs/ # Daily progress reports
+│   └── Templates/
+│       ├── daily_log_dispatcher.md
+│       ├── daily_log_tue.md
+│       ├── daily_log_wed.md
+│       ├── daily_log_thu.md
+│       ├── daily_log_fri.md
+│       ├── daily_log_sat.md
+│       ├── daily_log_sun.md
+│       └── study_note.md
+├── English
+│   ├── English_File/Notes/
+│   ├── English_map_of_content.md
+│   ├── Murphy_Grammar_in_Use/Notes/
+│   └── Notes/
+├── GitHub
+│   ├── Notes/
+│   └── python-learning-journal
+│       ├── LICENSE
+│       ├── Python
+│       │   └── Tasks
+│       │       └── *.py
+│       └── README.md
+├── Inbox/
+├── Linux
+│   ├── Linux_map_of_content.md
+│   ├── Notes/
+│   ├── Resources/
+│   └── Tests/
+├── Math
+│   ├── Math_map_of_content.md
+│   ├── Notes/
+│   ├── Resources/
+│   └── Tasks/
+├── Projects
+│   └── expense_tracker/
+└── Python
+    ├── Notes/
+    ├── Python_map_of_content.md
+    ├── Resources/
+    └── Projects
+        └── *.py
 ```
 
 ---
@@ -146,14 +162,14 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 *Last updated: 2026-10-10
 
-| Subject               | Resource                        | Current Topic                                                                                                   |
-| :-------------------- | :------------------------------ | :-------------------------------------------------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 389/2438 |
-| **Math**              | Mordkovich "Algebra 7"          | Chapter 1. Mathematical Language. Mathematical Model. § 6. The Coordinate Line.                                 |
-| **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`, `mv`, `rm`, `ln`).                                     |
-| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 4.                                                                                                         |
-| **English: Practice** | English File 4e Beginner        | 2B.                                                                                                             |
-| **CS**                | Bosova "Informatics 6"          | § 9. Information Modeling.                                                                                      |
+| Subject               | Resource                        | Current Topic                                                                                                                        |
+| :-------------------- | :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------- |
+| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 389/2438                      |
+| **Math**              | Mordkovich "Algebra 7"          | Chapter 1. Mathematical Language. Mathematical Model. § 6. The Coordinate Line.                                                      |
+| **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`, `mv`, `rm`, `ln`).<br>Scenario: Unit 1 — Navigation and Structure Creation. |
+| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 4.                                                                                                                              |
+| **English: Practice** | English File 4e Beginner        | 2B.                                                                                                                                  |
+| **CS**                | Bosova "Informatics 6"          | § 11. Tabular information models.<br>Progress: 66/215                                                                                |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
