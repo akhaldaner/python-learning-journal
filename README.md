@@ -162,14 +162,14 @@ Then fill in the sections for sleep, sport, studies, and reflections.
 
 *Last updated: 2026-10-14
 
-| Subject               | Resource                        | Current Topic                                                                                                                        |
-| :-------------------- | :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 389/2438                      |
-| **Math**              | Mordkovich "Algebra 7"          | Chapter 1. Mathematical Language. Mathematical Model. § 6. The Coordinate Line.                                                      |
-| **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`, `mv`, `rm`, `ln`).<br>Scenario: Unit 1 — Navigation and Structure Creation. |
-| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 5.                                                                                                                              |
-| **English: Practice** | English File 4e Beginner        | 2B.                                                                                                                                  |
-| **CS**                | Bosova "Informatics 6"          | § 14. What is an algorithm?<br>Progress: 100/215                                                                                     |
+| Subject               | Resource                        | Current Topic                                                                                                                  |
+| :-------------------- | :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 389/2438                |
+| **Math**              | Mordkovich "Algebra 7"          | Chapter 1. Mathematical Language. Mathematical Model. § 6. The Coordinate Line.                                                |
+| **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`, `mv`, `rm`, `ln`).<br>Scenario: Unit 2 - File Operations: cp, mv, rm. |
+| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 5.                                                                                                                        |
+| **English: Practice** | English File 4e Beginner        | 2B.                                                                                                                            |
+| **CS**                | Bosova "Informatics 6"          | § 14. What is an algorithm?<br>Progress: 100/215                                                                               |
 
 **Daily routine:**  
 - Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
