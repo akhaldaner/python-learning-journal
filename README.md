@@ -1,188 +1,117 @@
-# Python Learning Journal
+# zero-to-path
 
-**Daily progress tracker for learning computer science, Python, mathematics, Linux, and English.**
+> This is a personal experiment: can a person starting from zero become an engineer through small, consistent steps?
 
-[![GitHub](https://img.shields.io/badge/GitHub-akhaldaner-181717?style=for-the-badge&logo=github)](https://github.com/akhaldaner)
-[![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python)](https://python.org)
-[![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=ubuntu)](https://ubuntu.com)
-[![Obsidian](https://img.shields.io/badge/Obsidian-1.7.6-7C3AED?style=for-the-badge&logo=obsidian)](https://obsidian.md)
-[![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
+[![Status](https://img.shields.io/badge/status-phase%200-brightgreen?style=flat-square)](#roadmap)
+[![Last Updated](https://img.shields.io/badge/updated-2026--10--17-lightgrey?style=flat-square)](#current-progress)
 
 ---
 
-## Table of Contents
+## What this is
 
-- [Description](#description)
-- [Project Structure](#project_structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Current Progress](#current_progress)
-- [License](#license)
+A public record of a long-term, self-directed engineering education — documented as a reproducible system rather than a diary.
+
+The method is open. The journey is tracked.
+
+The goal is to build a career from backend development into AI infrastructure, on a foundation of mathematics, computer science, Linux, and English. Not by heroic sprints, but by small, consistent steps measured over years.
+
+## Why publish
+
+If small steps work, this repository will show it. If they don't, it will show that too. Either outcome is worth documenting.
+
+## How it works
+
+Three pillars:
+
+- **Knowledge maps** — one per subject. The single source of truth for topic status, and the hub that collects every note, drill, scenario, and practicum.
+- **Mastery criteria** — a topic is only "mastered" after clean recall, a hands-on artifact, a solved set of typical problems, and a written explanation to the AI mentor.
+- **Supporting discipline** — clean-sheet repetition, deliberate error labs, and spaced review at fixed intervals.
+
+Full breakdown → [METHODOLOGY.md](METHODOLOGY.md)
+Founding philosophy → [PHILOSOPHY.md](PHILOSOPHY.md)
 
 ---
 
-## Description
+## Roadmap
 
-This repository serves as my personal learning diary. It tracks my progress across five core areas:
-- **Python** — syntax, functions, OOP, and backend development.
-- **Mathematics** — algebra, mathematical analysis, linear algebra.
-- **Linux** — command-line proficiency, system administration.
-- **English** — vocabulary, grammar, and technical communication.
-- **Computer Science** — architecture, algorithms, data structures.
+Four phases. The timeline is defined by mastery, not by calendar.
 
-All study notes are maintained in **Obsidian** (vault: `free_in_the_knowledge/`) and synchronised with this Git repository. Daily logs and knowledge maps (`_map_of_content`) are kept in Markdown for easy navigation and version control.
-The goal is to reach **Junior Python Backend Developer** level within 2–2.5 years, while building a portfolio of projects and maintaining a consistent learning habit.
+| Phase | Goal | Core stack | Status |
+|---|---|---|---|
+| **0 — Foundation** | Base in math, CS, language; first code | Python (basics), Linux CLI, school-level algebra, CS fundamentals, English A1→B1 | **← current** |
+| **1 — Backend** | Junior Backend Developer | Python (OOP, FastAPI), PostgreSQL, SQL, Docker, REST | pending |
+| **2 — Systems** | Professional backend, first C++ | C++ (memory, STL), linear algebra | pending |
+| **3 — AI Infrastructure** | Engineer for AI systems | C++ (concurrency), CUDA/OpenCL, GPU architecture, pybind11 | pending |
 
 ---
 
-## Project_structure
+## Current Progress
 
-The repository is structured around an Obsidian vault (`free_in_the_knowledge/`) synchronised with Git. Each subject folder contains a `_map_of_content.md` file that serves as a navigation hub for that topic.
+*Last updated: 2026-10-17*
+
+### Python — Stepik course (389 / 2438)
+- **Current topic:** 4.3 — nested and cascaded conditions (`elif`).
+- **Active drill:** `PY-D01` — branch classifier, level 0 in progress.
+- **Open debt:** L1 mini-exam (`PY-E01`) not yet taken.
+
+### Mathematics — Algebra 7 (Mordkovich)
+- **Current topic:** §5 tail — percentages and mixtures.
+- **Active drill:** `M-DRILL-alloys` — 2 clean solutions passed.
+- **Open debt:** written explanation of the `m_removed = 0` trap not yet delivered.
+
+### Linux / Bash — Shotts + playground scenarios
+- **Current unit:** Unit 2 — file operations and wildcards.
+- **Active drill:** `L-DRILL-U2` — tasks 1–6 submitted; tasks 7–8 pending.
+- **Open debt:** Error Lab and clean repeat not yet passed.
+
+### Computer Science — Informatics 6 (Bosova, 100 / 215)
+- **Current topic:** §14 — introduction to algorithms.
+- **Active drill:** `CS-E01` — express `mkdir -p` as a flowchart and as a verbal algorithm. Not started.
+
+### English — grammar (Murphy) + practice (English File)
+- **Grammar:** Unit 5 (Present Simple Affirmative) — `mastered` (2026-10-15).
+- **Practice:** Unit 2B (Wh-/How-questions with `be`) — in progress.
+- **Open debt:** `EN-PACKET-2B` (5 sentences) not yet submitted.
+
+### Pet project — `expense_tracker` (CLI)
+- **Status:** not started. Structure will mirror Linux Unit 1 (`src/`, `data/`, nested directories).
+
+*Full topic-level detail lives in the knowledge maps.*
+
+---
+
+## Repository structure
 
 ```text
-free_in_the_knowledge
-├── CS
-│   ├── CS_map_of_content.md
-│   ├── Notes/
-│   └── Resources/
-├── Daily
-│   ├── Logs/ # Daily progress reports
-│   └── Templates/
-│       ├── daily_log_dispatcher.md
-│       ├── daily_log_tue.md
-│       ├── daily_log_wed.md
-│       ├── daily_log_thu.md
-│       ├── daily_log_fri.md
-│       ├── daily_log_sat.md
-│       ├── daily_log_sun.md
-│       └── study_note.md
-├── English
-│   ├── English_File/Notes/
-│   ├── English_map_of_content.md
-│   ├── Murphy_Grammar_in_Use/Notes/
-│   └── Notes/
-├── GitHub
-│   ├── Notes/
-│   └── python-learning-journal
-│       ├── LICENSE
-│       ├── Python
-│       │   └── Tasks
-│       │       └── *.py
-│       └── README.md
-├── Inbox/
-├── Linux
-│   ├── Linux_map_of_content.md
-│   ├── Notes/
-│   ├── Resources/
-│   └── Tests/
-├── Math
-│   ├── Math_map_of_content.md
-│   ├── Notes/
-│   ├── Resources/
-│   └── Tasks/
-├── Projects
-│   └── expense_tracker/
-└── Python
-    ├── Notes/
-    ├── Python_map_of_content.md
-    ├── Resources/
-    └── Projects
-        └── *.py
+zero-to-path/  
+├── README.md # the showcase  
+├── PHILOSOPHY.md # why this path — the manifest  
+├── METHODOLOGY.md # how the system works  
+├── LICENSE  
+├── .gitignore # keeps private material out of the repository  
+├── .gitattributes # encoding and line-ending safety  
+├── code/ # public code samples worth revisiting years later  
+├── templates/ # knowledge map, daily log, drill templates  
+└── docs/ # optional additional documentation
 ```
+
+Study notes are maintained in **Obsidian** (open-source, plain-text Markdown). Code is written in **VS Code** (open-source). Both run on Linux.
 
 ---
 
-## Installation
+## Tooling
 
-1. Clone the repository:
+- **OS:** Linux (Ubuntu)
+- **Editor:** VS Code
+- **Knowledge base:** Obsidian
+- **Version control:** Git + GitHub
+- **AI mentor:** open-weight or free-tier large language models
 
-  ```bash
-git clone https://github.com/akhaldaner/python-learning-journal.git
-cd python-learning-journal
-  ```
-
-2. Open the vault in Obsidian (optional):
-- Open Obsidian.
-- Click "Open folder as vault" and select the `free_in_the_knowledge/` folder inside the cloned repository.
-
-3. Ensure Python 3.12+ is installed (to run code examples):
-
-```bash
-python3 --version
-```
-
-If not installed, use your system package manager (e.g., `sudo apt install python3` on Ubuntu).
-
-No additional dependencies are required — all notes are in plain Markdown.
-
----
-
-## Usage
-
-### Viewing Notes
-
-Open the Obsidian vault:
-
-1. Launch Obsidian.
-2. Click **"Open folder as vault"**.
-3. Select the `free_in_the_knowledge/` folder from the cloned repository.
-
-Once opened, use the knowledge maps (`*_map_of_content.md`) as entry points:
-
-- `Python/Python_map_of_content.md` — current Python topics and progress.
-- `Math/Math_map_of_content.md` — algebra, geometry, formulas.
-- `Linux/Linux_map_of_content.md` — command-line cheatsheets.
-- `English/English_map_of_content.md` — grammar and vocabulary.
-- `CS/CS_map_of_content.md` — computer science and architecture.
-
-### Running Code Examples
-
-Navigate to the Python folder and execute scripts:
-
-```bash
-cd Python/Tasks/
-python3 min_of_four.py
-```
-
-### Daily Logging
-
-New daily reports are created using the template in Daily/Templates/daily_log.md. Place them in Daily/Logs/YYYY/MM/ with the format DD.md.
-
-Example:
-
-```bash
-cp Daily/Templates/daily_log.md Daily/Logs/2026/09/05.md
-```
-
-Then fill in the sections for sleep, sport, studies, and reflections.
-
----
-
-## Current_Progress
-
-*Last updated: 2026-10-14
-
-| Subject               | Resource                        | Current Topic                                                                                                                  |
-| :-------------------- | :------------------------------ | :----------------------------------------------------------------------------------------------------------------------------- |
-| **Python**            | Stepik: online courses          | 4.3 Nested and cascaded conditions. Conditional statement `elif`. Problem Solving.<br>Course progress: 389/2438                |
-| **Math**              | Mordkovich "Algebra 7"          | Chapter 1. Mathematical Language. Mathematical Model. § 6. The Coordinate Line.                                                |
-| **Linux**             | Shotts "The Linux Command Line" | Chapter 4. File and directory operations (`mkdir`, `cp`, `mv`, `rm`, `ln`).<br>Scenario: Unit 2 - File Operations: cp, mv, rm. |
-| **English: Grammar**  | Murphy "Grammar in Use"         | Unit 5.                                                                                                                        |
-| **English: Practice** | English File 4e Beginner        | 2B.                                                                                                                            |
-| **CS**                | Bosova "Informatics 6"          | § 14. What is an algorithm?<br>Progress: 100/215                                                                               |
-
-**Daily routine:**  
-- Learning sessions: 6–8 hours on home days, 3–4 hours on office days.  
-- Anki/ReWord: 20 new words + ~400 repetitions daily.  
-- Regular commits to GitHub.  
-- Physical exercise, walks, and playing music incorporated into the daily routine.
+All tools are open-source, free, or both. Nothing requires a paid licence to reproduce.
 
 ---
 
 ## License
 
-This project is licensed under the [MIT](LICENSE).
-
-**Author:** [akhaldaner](https://github.com/akhaldaner)
-
----
+[MIT](LICENSE)
