@@ -50,53 +50,39 @@ Four phases. The timeline is defined by mastery, not by calendar.
 
 *Last updated: 2026-10-17*
 
-### Python — Stepik course (389 / 2438)
-- **Current topic:** 4.3 — nested and cascaded conditions (`elif`).
-- **Active drill:** `PY-D01` — branch classifier, level 0 in progress.
-- **Open debt:** L1 mini-exam (`PY-E01`) not yet taken.
-
-### Mathematics — Algebra 7 (Mordkovich)
-- **Current topic:** §5 tail — percentages and mixtures.
-- **Active drill:** `M-DRILL-alloys` — 2 clean solutions passed.
-- **Open debt:** written explanation of the `m_removed = 0` trap not yet delivered.
-
-### Linux / Bash — Shotts + playground scenarios
-- **Current unit:** Unit 2 — file operations and wildcards.
-- **Active drill:** `L-DRILL-U2` — tasks 1–6 submitted; tasks 7–8 pending.
-- **Open debt:** Error Lab and clean repeat not yet passed.
-
-### Computer Science — Informatics 6 (Bosova, 100 / 215)
-- **Current topic:** §14 — introduction to algorithms.
-- **Active drill:** `CS-E01` — express `mkdir -p` as a flowchart and as a verbal algorithm. Not started.
-
-### English — grammar (Murphy) + practice (English File)
-- **Grammar:** Unit 5 (Present Simple Affirmative) — `mastered` (2026-10-15).
-- **Practice:** Unit 2B (Wh-/How-questions with `be`) — in progress.
-- **Open debt:** `EN-PACKET-2B` (5 sentences) not yet submitted.
-
-### Pet project — `expense_tracker` (CLI)
-- **Status:** not started. Structure will mirror Linux Unit 1 (`src/`, `data/`, nested directories).
+| Subject                | Main resource                    | Progress     | Practicum                   |
+| ---------------------- | -------------------------------- | ------------ | --------------------------- |
+| **Python**             | Stepik — Generation Python       | 389 / 2438   | Drill: branch classifier    |
+| **Mathematics**        | Mordkovich, *Algebra 7*          | §5 tail      | Drill: alloys, 2 passed     |
+| **Linux / Bash**       | Shotts, *The Linux Command Line* | Chapters 1–4 | Unit 2 — file operations    |
+| **Computer Science**   | Bosova, *Informatics 6*          | 100 / 215    | Experiment: algorithm forms |
+| **English — grammar**  | Murphy, *Grammar in Use*         | Unit 5       | Drill: U5 clean repeat      |
+| **English — practice** | English File 4e Beginner         | Unit 2B      | Packet: 2B questions        |
+| **Pet project**        | Phase 0 — `expense_tracker`      | —            | CLI                         |
 
 *Full topic-level detail lives in the knowledge maps.*
 
 ---
 
-## Repository structure
+## System structure
+
+The repository is small: three public documents describing the method. The actual learning happens in a private Obsidian vault, organized like this:
 
 ```text
-zero-to-path/  
-├── README.md # the showcase  
-├── PHILOSOPHY.md # why this path — the manifest  
-├── METHODOLOGY.md # how the system works  
-├── LICENSE  
-├── .gitignore # keeps private material out of the repository  
-├── .gitattributes # encoding and line-ending safety  
-├── code/ # public code samples worth revisiting years later  
-├── templates/ # knowledge map, daily log, drill templates  
-└── docs/ # optional additional documentation
+vault/
+├── <subject>/               # Python, Math, Linux, CS, English
+│   ├── <subject>_map.md     # source of truth: status, drills, risks
+│   ├── Notes/               # concept notes linked to the map
+│   ├── Tests/               # drill scenarios and clean-repeat artifacts
+│   └── Resources/           # reference material (not an active track)
+├── Daily/                   # daily logs and reflections
+├── Projects/                # pet projects per phase
+└── Inbox/                   # incoming, unsorted
 ```
 
-Study notes are maintained in **Obsidian** (open-source, plain-text Markdown). Code is written in **VS Code** (open-source). Both run on Linux.
+Each subject has exactly one map. Notes without a map do not exist.
+
+Public files: `README.md`, `PHILOSOPHY.md`, `METHODOLOGY.md`, plus `code/`, `templates/`, `docs/` for future artifacts.
 
 ---
 
